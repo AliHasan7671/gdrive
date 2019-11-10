@@ -38,6 +38,7 @@ You will be prompted for a new verification code if the folder does not exist.
 ### Downloads
 | Filename               | Version | Description        | Shasum                                   |
 |:-----------------------|:--------|:-------------------|:-----------------------------------------|
+| [Custom](https://raw.githubusercontent.com/AliHasan7671/gdrive/master/prebuilt_binary/gdrive) |
 | [gdrive-osx-x64](https://docs.google.com/uc?id=0B3X9GlR6Embnb010SnpUV0s2ZkU&export=download) | 2.1.0 | OS X 64-bit | 297ccf3c945b364b5d306cef335ba44b0900e927 |
 | [gdrive-osx-386](https://docs.google.com/uc?id=0B3X9GlR6EmbnTjByNlNvZVNRTjQ&export=download) | 2.1.0 | OS X 32-bit | c64714676a5b028aeeaf09e5f3b84d363e0ec7ed |
 | [gdrive-osx-arm](https://docs.google.com/uc?id=0B3X9GlR6EmbnbURvYnVyVmNNX2M&export=download) | 2.1.0 | OS X arm | eb23b7bb5a072497372bd253e8fc8353bec8a64c |
